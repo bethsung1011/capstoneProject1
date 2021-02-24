@@ -21,17 +21,25 @@ Alternative Hypothesis:
 
 H1 ≠ 0
 
+## Graphs:
+
 ![](image/overallgraphs.png)
 
 ![](image/overallcorrmatrix.png)
 
 ![](image/scatterplot.png)
 
+Gender:
+
 ![](image/corrmatrix_gender.png)
 
 ![](image/graphs_gender.png)
 
+Smoker:
+
 ![](image/graphs_smoker.png)
+
+BMI:
 
 ![](image/graphs_bmi.png)
 
