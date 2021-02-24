@@ -21,7 +21,7 @@ Alternative Hypothesis:
 
 H1 ≠ 0
 
-## Graphs:
+## Figures:
 
 ![](image/overallgraphs.png)
 
