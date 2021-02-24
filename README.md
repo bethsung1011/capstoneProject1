@@ -23,3 +23,15 @@ H1 ≠ 0
 
 ![](image/overallgraphs.png)
 
+![](image/overallcorrmatrix.png)
+
+![](image/scatterplot.png)
+
+![](image/corrmatrix_gender.png)
+
+![](image/graphs_gender.png)
+
+![](image/graphs_smoker.png)
+
+![](image/graphs_bmi.png)
+
