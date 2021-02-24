@@ -15,7 +15,7 @@ I would like to test hypothesis whether there are difference between the medical
 
 Null Hypothesis: 
 
-Ho = 0
+H0 = 0
 
 Alternative Hypothesis:
 
