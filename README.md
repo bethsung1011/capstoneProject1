@@ -21,3 +21,5 @@ Alternative Hypothesis:
 
 H1 ≠ 0
 
+![](image/overallgraphs.png)
+
