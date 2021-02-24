@@ -44,8 +44,11 @@ BMI:
 ![](image/graphs_bmi.png)
 
 age: ANOVA: statistic = 5.0646, p-value = 0.0005, significantly different
+
 charges: ANOVA: statistic = 14.4182, p-value = 0.0000, significantly different
+
 children: ANOVA: statistic = 0.1797, p-value = 0.9490, not significant
+
 region: ANOVA: statistic = 2.0785, p-value = 0.0814, not significant
 
 region: northeast = 0, southeast = 1, northwest = 2, southwest = 3
