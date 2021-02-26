@@ -1,7 +1,7 @@
 # Medical Insurance Expense
 
 ## Aim:
-The goal of this study is to investigate the medical insurance cost dataset using multiple statistics approaches including hypothesis testing, correlation, and regression analysis.  This dataset presents a yearly medical cost for individuals in United States, and is available at https://www.kaggle.com/mirichoi0218/insurance.
+The goal of this study is to investigate the medical insurance cost dataset using multiple statistical approaches including hypothesis testing, correlation, and regression analysis.  This dataset presents a yearly medical cost for individuals in United States, and is available at https://www.kaggle.com/mirichoi0218/insurance.
 
 
 
