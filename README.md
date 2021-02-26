@@ -10,7 +10,7 @@ Figure 1.  This dataset consists of seven feature columns: age, sex, BMI (body m
 
 ![](image/overallgraphs.png)
 
-
+age: mean: 39, number of male: 676, number of female: 662, bmi: mean: 30.7, number of nonsmoker: 1,064, number of smoker: 274, charge: max: 63,770, charge: min: 1,122, charge: mean: 13270
 
 ## Hypothesis Testing:
 Test whether there are difference between the medical insurance cost of (1) men and women, (2) smoker and nonsmoker, and (3) body mass index (BMI) groups, (4) age groups, (5) children, and (6) regions.
