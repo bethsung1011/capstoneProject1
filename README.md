@@ -92,5 +92,5 @@ Figure 5.  Model evaluation.  Features were ranked by correlation.  1: smoke, 2:
 This dataset shows that the medical costs vary depending on age, gender, body mass index, how many children they have, and whether or not they smoke.  A linear regression model having multiple highly correlated variables may improve the goodness-of-fit.  Future work may include Bayesian statistics to determine the probability of individual medical expense that falls within a cost range given specific conditions.
 
 
-## Technologies
+## Technologies:
 Python, Numpy, Pandas, Scipy, Sckit-Learn, Matplotlib, Seaborn
