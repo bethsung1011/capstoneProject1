@@ -83,7 +83,7 @@ Simple linear regression: y = a + bx
 
 Multivariate linear regression: y = β0 + β1x1 + β2x2 + ... + βkxk + e
 
-Figure 5.  Model evaluation.  The depedent variable is charges.  Features were ranked by correlation.  1: smoke, 2: smoke + age, 3: smoke + age + bmi, 4: smoke + age + bmi + children, 5: smoke + age + bmi + children + sex, 6: smoke + age  + bmi + children + sex + region.
+Figure 5.  Model evaluation.  The dependent variable is charges.  Features were ranked by correlation.  1: smoke, 2: smoke + age, 3: smoke + age + bmi, 4: smoke + age + bmi + children, 5: smoke + age + bmi + children + sex, 6: smoke + age  + bmi + children + sex + region.
 
 ![](image/regression_variables.png)
 
