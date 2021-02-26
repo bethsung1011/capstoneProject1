@@ -1,13 +1,11 @@
-# Capstone Project 1
+# Medical Insurance Expense
 
 ## Aim:
-______
 The goal of this study is to investigate the medical insurance cost dataset using multiple statistics approaches including hypothesis testing, correlation, and regression analysis.  This dataset presents a yearly medical cost for individuals in United States, and is available at https://www.kaggle.com/mirichoi0218/insurance.
 
 
 
 ## General Information:
-______
 Figure 1.  This dataset consists of seven feature columns: age, sex, BMI (body mass index, weight/height), children (dependents), region, and charges.  And their overall distribution are shown here.
 
 ![](image/overallgraphs.png)
@@ -15,7 +13,6 @@ Figure 1.  This dataset consists of seven feature columns: age, sex, BMI (body m
 
 
 ## Hypothesis Testing:
-______
 Test whether there are difference between the medical insurance cost of (1) men and women, (2) smoker and nonsmoker, and (3) body mass index (BMI) groups, (4) age groups, (5) children, and (6) regions.
 
 Null Hypothesis: 
@@ -67,7 +64,6 @@ ANOVA: statistic = 0.9329, p-value = 4.24e-01, not significant
 
 
 ## Correlation Analysis:
-______
  Correlation analysis is a statistical method used to test the strength of relationships between quantitative or categorical variables.  A high correlation coefficent means that the variables have a strong relationship; whereas a low correlation coefficent means that they are weakly related.  Positive and negative values indicate whether they are positively or negatively correlated.
 
 
@@ -81,7 +77,6 @@ Figure 4.  Scatter plots of highly correlated variables.  Left panel: 0: nonsmok
 
 
 ## Regression Analysis:
-______
 Regression analysis is a statistical method used to model the relationship between a dependent variable and one or more independent variables (or features):
 
 Simple linear regression: y = a + bx
@@ -94,10 +89,8 @@ Figure 5.  Model evaluation.  Features were rankd by correlation.  1: smoke, 2: 
 
 
 ## Summary:
-______
 This dataset shows that the medical costs vary depending on age, gender, body mass index, how many children they have, and whether or not they smoke.  A linear regression model having multiple highly correlated variables may improve the goodness-of-fit.  Future work may include Bayesian statistics to determine the probability of individual medical expense that falls within a cost range given specific conditions.
 
 
 ## Technologies
-______
 Python, Numpy, Pandas, Scipy, Sckit-Learn, Matplotlib, Seaborn
